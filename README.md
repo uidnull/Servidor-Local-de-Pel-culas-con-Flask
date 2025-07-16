@@ -32,3 +32,7 @@ EJEMPLO/
 │       ├── python app.py
 ---
 ```
+## 🎥 Interfaz del proyecto
+
+![Vista previa](https://i.imgur.com/oz23jIi.png)
+
