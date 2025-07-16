@@ -1,5 +1,3 @@
-## Servidor-Local-de-Peliculas-con-Flask
-Este proyecto es un servidor autohost para ver tus películas en red local, con una interfaz visual moderna, buscador, miniaturas y reproductor embebido. ¡Ideal para ver tu biblioteca personal desde cualquier dispositivo conectado a tu red!
 ## 🎬 Servidor Local de Películas con Flask
 
 Este proyecto es un **servidor autohospedado para ver tus películas en red local**, con una interfaz visual moderna, buscador, miniaturas y reproductor embebido. ¡Ideal para ver tu biblioteca personal desde cualquier dispositivo conectado a tu red!
@@ -14,7 +12,7 @@ Este proyecto es un **servidor autohospedado para ver tus películas en red loca
 
 ---
 
-## 📂 Estructura esperada
+## 📂 Estructura
 
 ```bash
 EJEMPLO/
@@ -22,4 +20,15 @@ EJEMPLO/
 │   ├── mi_pelicula.mp4
 │   └── MINIATURAS/
 │       ├── mi_pelicula.jpg
+---
+```
 
+## ✅ Instalación
+```bash 
+├── Instala Python desde https://www.python.org/downloads/
+│
+│   ├── Luego abre CMD o PowerShell y ejecuta:
+│   └── pip install flask
+│       ├── python app.py
+---
+```
