@@ -39,3 +39,12 @@ EJEMPLO/
 ## 📱 Interfaz Movil
 ![Vista Movil](https://i.imgur.com/wn04ytj.png)
 
+## 📄 Licencia
+
+Este proyecto ha sido desarrollado por **uidnull** y se proporciona bajo una **Licencia de Uso Personal**.
+
+- 📌 **Permitido**: Uso personal, modificación para uso privado, y distribución no comercial.  
+- 🚫 **Prohibido**: Venta, redistribución comercial o incorporación en productos con fines lucrativos.
+
+Consulta el archivo [LICENSE](./LICENSE) para ver los detalles completos.
+
