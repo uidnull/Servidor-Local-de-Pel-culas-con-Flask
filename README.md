@@ -33,8 +33,9 @@ EJEMPLO/
 ---
 ```
 ## 🎥 Interfaz del proyecto
-
 ![Vista previa](https://i.imgur.com/oz23jIi.png)
+## ▶️ Interfaz del Reproductor
 ![Vista Reproductor](https://i.imgur.com/b6Gsb0j.png)
+## 📱 Interfaz Movil
 ![Vista Movil](https://i.imgur.com/wn04ytj.png)
 
