@@ -16,9 +16,9 @@ Este proyecto es un **servidor autohospedado para ver tus películas en red loca
 
 ```bash
 EJEMPLO/
-├── PELIS/
+├── peliculas/
 │   ├── mi_pelicula.mp4
-│   └── MINIATURAS/
+│   └── miniaturas/
 │       ├── mi_pelicula.jpg
 ---
 ```
