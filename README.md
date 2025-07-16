@@ -1,4 +1,4 @@
-## 🎬 Servidor Local de Películas con Flask
+<img width="384" height="842" alt="image" src="https://github.com/user-attachments/assets/34dcef6d-e8b6-4771-985a-e6902f30dd22" />## 🎬 Servidor Local de Películas con Flask
 
 Este proyecto es un **servidor autohospedado para ver tus películas en red local**, con una interfaz visual moderna, buscador, miniaturas y reproductor embebido. ¡Ideal para ver tu biblioteca personal desde cualquier dispositivo conectado a tu red!
 
@@ -35,4 +35,6 @@ EJEMPLO/
 ## 🎥 Interfaz del proyecto
 
 ![Vista previa](https://i.imgur.com/oz23jIi.png)
+![Vista Reproductor](https://i.imgur.com/b6Gsb0j.png)
+![Vista Movil](https://i.imgur.com/wn04ytj.png)
 
