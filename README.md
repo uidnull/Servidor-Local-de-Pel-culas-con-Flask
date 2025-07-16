@@ -5,7 +5,7 @@ Este proyecto es un **servidor autohospedado para ver tus películas en red loca
 ## 🚀 Características
 
 - Listado automático de archivos de vídeo (.mp4, .mkv, .avi, .mov)
-- Soporte de miniaturas para cada película (.jpg, .png, .webp)
+- Soporte de miniaturas para cada película (.jpg, .png, .webp) (Debe tener el mismo nombre que la pelicula)
 - Reproductor con ventana emergente
 - Buscador en tiempo real
 - UI responsiva
